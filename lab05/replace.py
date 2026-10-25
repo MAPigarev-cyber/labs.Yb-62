@@ -1,0 +1,5 @@
+s = input()
+count = s.count(':')   
+result = s.replace(':', '-')  
+print(count)
+print(result)
